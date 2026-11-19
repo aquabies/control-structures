@@ -1,7 +1,7 @@
 // november 11, 2026 | big task
 import java.util.Scanner;
 
-public class Lu{
+public class JeepneyFare{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int numberPassengers = input.nextInt();
