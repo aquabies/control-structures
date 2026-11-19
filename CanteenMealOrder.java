@@ -1,4 +1,4 @@
-// october 21, 2026
+// october 21, 2026 | switch case
 import java.util.Scanner;
 
 public class CanteenMealOrder{
