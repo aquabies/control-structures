@@ -1,7 +1,7 @@
 // november 17, 2026 | do while and nested switch case if else
 import java.util.Scanner;
 
-public class E-WalletProgram{
+public class E_WalletProgram{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         double balance = input.nextDouble();
