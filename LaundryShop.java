@@ -1,3 +1,4 @@
+// november 4, 2026
 import java.util.Scanner;
 
 public class LaundryShop{
