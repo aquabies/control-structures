@@ -1,7 +1,7 @@
 // october 29, 2026 | for and nested if
 import java.util.Scanner;
 
-public class SavingsGoaL{
+public class SavingsGoal{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String item = input.nextLine();
